@@ -1,6 +1,3 @@
-#include <iostream>
-#include <string>
-#include <sstream>
 #include "Fraccion.h"
 using std::string;
 using std::cout;
